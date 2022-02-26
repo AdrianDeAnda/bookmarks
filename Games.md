@@ -9,7 +9,7 @@
 - [Newbie here. Please give your pro-tips.](https://www.reddit.com/r/MotorsportManagerPC/comments/c84yu5/steam_sale_newbie_here_please_give_your_protips/)
 - [What are r/nintendo's favorite DS games?](https://www.reddit.com/r/nintendo/comments/4qu91j/what_are_rnintendos_favorite_ds_games/)
 - [Final Fantasy X was officially elected the best game of the series by the japanese](https://www.reddit.com/r/JRPG/comments/fcveqe/final_fantasy_x_was_officialy_elected_the_best/fjd6iha/)
-- [Map MOde tier list](https://i.redd.it/zmi9fubfg1771.png)
+- [Map Mode tier list](https://i.redd.it/zmi9fubfg1771.png)
 - [Node controller](https://www.reddit.com/r/CitiesSkylines/comments/n1wz8s/node_controller_renewal_released_improved_uiux/)
 - [The anatomy of a colony](https://www.reddit.com/r/RimWorld/comments/pcl0g2/the_anatomy_of_a_colony/)
 - [Optimal baggage scanning layout](https://www.reddit.com/r/airportceo/comments/kv55x7/optimal_baggage_scanning_layout/)

@@ -25,6 +25,10 @@
 
 ## Guides
 
+- [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
+- [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)
+- [How to study effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
 - [Want to learn Elvish?](http://imgur.com/a/Ao2CI)
 - [How to make a margarita](http://i.imgur.com/UyOh0fu.gif)
 - [Easily cite all your sources with MS Word](https://i.imgur.com/iCyI3AS.jpg)
@@ -49,6 +53,16 @@
 - [The 6 states of matter](https://i.redd.it/dvy626hggpc81.jpg)
 - [How to keep a clean home](https://i.redd.it/eg7skdxn7ob71.jpg)
 - [Simple meditation guide](https://i.imgur.com/vT4oSlD.jpg)
+- [Refusing to Be the Victim – How to Adopt a “Player” Mindset at Work ](https://spin.atomicobject.com/2019/10/06/player-mindset/)
+- [7 Steps to 197,514 Monthly Traffic](https://apollodigital.io/blog/seo-case-study)
+- [What is a "Development Pattern"?](https://www.strongtowns.org/journal/2020/2/7/what-is-a-development-pattern)
+- [How to validate product ideas](https://marisamorby.com/product-idea-research/)
+- [How to remember what you learn](https://vasilishynkarenka.com/learning/)
+- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager)
+- [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+- [Your Thinking Rate Is Fixed](https://fs.blog/thinking-rate-fixed/)
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+- [How I use Notion](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/)
 
 ## Tattoos
 

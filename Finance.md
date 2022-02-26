@@ -4,6 +4,8 @@
 
 - [Four-fund portfolio](https://www.reddit.com/r/personalfinance/comments/2us5o5/this_advice_really_works_five_years_12000_to/cob9t22/)
 - [The DRS list (GME)](https://www.reddit.com/r/Superstonk/comments/ppb8u6/the_drs_list_mercy_mercy_me_gme_aint_where_it/)
+- [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
+- [Positions, Profit and Loss](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
 
 ## Guides
 
