@@ -3,7 +3,6 @@ repos:
     rev: v4.1.0
     hooks:
     -   id: check-added-large-files
-    -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
     -   id: detect-private-key

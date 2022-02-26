@@ -20,6 +20,16 @@
 - [At the end of a job interview when they ask me, "So, do you have any questions?", what are some genuinely good questions to ask?](https://www.reddit.com/r/AskReddit/comments/5oxa9q/serious_at_the_end_of_a_job_interview_when_they/dcmse7t/)
 - [Technical Debt is Anything Preventing You From Developing Fast](https://www.maintainable.fm/episodes/sandro-mancuso-technical-debt-is-anything-preventing-you-from-developing-fast)
 - [Resignation checklist](https://www.reddit.com/r/sysadmin/comments/ih5t1b/resignation_checklist/)
+- [Establishing Your Personal Brand](https://kentcdodds.com/chats/01/02/establishing-your-personal-brand-with-cassidy-williams)
+- [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+- [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://blog.doist.com/asynchronous-communication/)
+- [Performance Reviews for Software Developer](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+- [Work on what matters](https://staffeng.com/guides/work-on-what-matters)
+- [How I Use tmux For Local Development ](https://deliciousbrains.com/tmux-for-local-development/)
+- [5 second feedback](https://critter.blog/2020/11/26/5-second-feedback/)
+- [Interview advice](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
+- [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed?utm_source=url)
+- [How to Evaluate Startup Offers - A Beginner's Guide](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 
 ## OS
 
@@ -32,6 +42,8 @@
 - [My first fully functional i3 and Polybar workspace ](https://www.reddit.com/r/i3wm/comments/nn77gf/my_first_fully_functional_i3_and_polybar_workspace/)
 - [What are some post-installation optimizations that other Distros do and Wiki doesn't tell you?](https://www.reddit.com/r/archlinux/comments/qzlfsu/what_are_some_postinstallation_optimizations_that/hloqzpi/)
 - [My computer freezes fairly regularly, how can I narrow down the cause?](https://www.reddit.com/r/archlinux/comments/qz25q3/my_computer_freezes_fairly_regularly_how_can_i/hljnn48/)
+- [Full Wayland Setup on Arch Linux](https://www.fosskers.ca/en/blog/wayland)
+- [systemd timers for DuckDNS](https://grenangen.se/posts/systemd-timers-duckdns/)
 
 ## PCMR/Keebs
 
@@ -49,51 +61,81 @@
 - [Sample Strategy to make PM your main email account](https://www.reddit.com/r/ProtonMail/comments/ly8254/sample_strategy_to_make_pm_your_main_email/)
 
 ## Programming
-- [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
-- [NumPy and Pandas Tutorial – Data Analysis with Python](https://cloudxlab.com/blog/numpy-pandas-introduction/)
+
 - [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-- [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [How to write a Discord bot in Python](https://boostlog.io/_junp1234/how-to-write-a-discord-bot-in-python-5a8e73aca7e5b7008ae1da8b/)
-- [5 strategies to write unblock-able web scrapers in Python](https://blog.adnansiddiqi.me/5-strategies-to-write-unblock-able-web-scrapers-in-python)
-- [Error handling practices in Go](https://banzaicloud.com/blog/error-handling-go/)
-- [Automate the boring stuff with python](https://www.reddit.com/r/Python/comments/7kpme8/automate_the_boring_stuff_with_python_tinder/)
-- [Senior Python Programmers, what tricks do you want to impart?](https://www.reddit.com/r/Python/comments/7cs8dq/senior_python_programmers_what_tricks_do_you_want/)
-- [Python cheat sheet for Data Science' for beginners.](https://i.redd.it/ahetz5jtbzq11.jpg)
-- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [LearnDB: Learn how to build a database](https://learndb.net/)
 - [What are some Rails concepts that will make me a better dev?](https://www.reddit.com/r/rails/comments/abz4oo/what_are_some_rails_concepts_that_will_make_me_a/)
 - [Which tool stack do you use at work?](https://www.reddit.com/r/Python/comments/ak0zir/question_to_professional_python_programmers/)
 - [I modified an SQL query from 24 mins down to 2 seconds - A tale of query optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 - [A Detailed Explanation of Abstraction in Software Development ](https://thevaluable.dev/abstraction_software_development/)
 - [Optimization: How I made my PHP code run 100 times faster](https://mike42.me/blog/2018-06-how-i-made-my-php-code-run-100-times-faster)
-- [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
-- [Rust in the on of the biggest music festival Atlas Weekend 2019](https://www.reddit.com/r/rust/comments/cdg5b4/rust_in_the_on_of_the_biggest_music_festival/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [One Program Written in Python, Go, and Rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+- [Developer roadmaps](https://roadmap.sh/roadmaps)
+- [Code Review Best Practices ](https://blogboard.io/blog/code-review-best-practices/)
+
+### Go
+
+- [Error handling practices in Go](https://banzaicloud.com/blog/error-handling-go/)
+- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [The Zen of Go](https://the-zen-of-go.netlify.app/)
-- [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
-- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-- [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 - [Event Sourcing in Go](https://victoramartinez.com/posts/event-sourcing-in-go/)
 - [Generics in Go – How They Work and How to Play With Them](https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/)
 - [What feature of Go is used very often by experienced programmers, but not so much by a newbie?](https://www.reddit.com/r/golang/comments/hp4mk3/what_feature_of_go_is_used_very_often_by/)
-- [What stuff did you automate that saved you a bunch of time?](https://www.reddit.com/r/Python/comments/hth0qs/what_stuff_did_you_automate_that_saved_you_a/)
-- [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system/)
 - [How to deploy a Go (Golang) backend with a React frontend separately on Kubernetes](https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/)
+- [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
+- [Building Microapps with gRPC-Web](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
+- [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/)
+- [REST Servers in Go: standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+
+### Python
+
+- [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
+- [NumPy and Pandas Tutorial – Data Analysis with Python](https://cloudxlab.com/blog/numpy-pandas-introduction/)
+- [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
+- [How to write a Discord bot in Python](https://boostlog.io/_junp1234/how-to-write-a-discord-bot-in-python-5a8e73aca7e5b7008ae1da8b/)
+- [5 strategies to write unblock-able web scrapers in Python](https://blog.adnansiddiqi.me/5-strategies-to-write-unblock-able-web-scrapers-in-python)
+- [Automate the boring stuff with python](https://www.reddit.com/r/Python/comments/7kpme8/automate_the_boring_stuff_with_python_tinder/)
+- [Senior Python Programmers, what tricks do you want to impart?](https://www.reddit.com/r/Python/comments/7cs8dq/senior_python_programmers_what_tricks_do_you_want/)
+- [Python cheat sheet for Data Science' for beginners.](https://i.redd.it/ahetz5jtbzq11.jpg)
+- [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
+- [What stuff did you automate that saved you a bunch of time?](https://www.reddit.com/r/Python/comments/hth0qs/what_stuff_did_you_automate_that_saved_you_a/)
 - [FastAPI for Flask Users ](https://amitness.com/2020/06/fastapi-vs-flask/)
 - [The Best Way to Check for True or False](https://i.redd.it/d6kf7h95voq51.png)
-- [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
 - [Standards to be aware of ](https://www.reddit.com/r/Python/comments/lv0ump/standards_to_be_aware_of/)
-- [Ownership Concept Diagram](https://i.redd.it/nhhxzcwqd6q61.png)
 - [How To Speed Up The Python Code?](https://www.reddit.com/r/Python/comments/mv8z4p/how_to_speed_up_the_python_code/)
 - [An alternative to long if conditions](https://imgur.com/ooghpcE)
 - [What's the most simple & elegant piece of Python code you've seen? (](https://www.reddit.com/r/Python/comments/ovjubg/whats_the_most_simple_elegant_piece_of_python/)
 - [How to store subscriptions? A practical guide and analysis of 3 selected databases](https://medium.com/schibsted-engineering/how-to-store-subscriptions-a-practical-guide-and-analysis-of-3-selected-databases-dcfd06b747a4)
 - [How we optimized Python API server code 100x](https://towardsdatascience.com/how-we-optimized-python-api-server-code-100x-9da94aa883c5)
-- [Building Microapps with gRPC-Web](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
 - [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
-- Pattern Matching with Match in Rust](https://i.redd.it/bmdfceg7gpy71.png)
+- [Structuring your project](https://docs.python-guide.org/writing/structure/)
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
+- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/)
+- [Backtest Your Trading Strategy with Only 3 Lines of Python](https://towardsdatascience.com/backtest-your-trading-strategy-with-only-3-lines-of-python-3859b4a4ab44)
+- [7 pytest Features and Plugins That Will Save You Tons of Time](https://miguendes.me/7-pytest-features-and-plugins-that-will-save-you-tons-of-time)
+- [Common anti-patterns in Python ](https://deepsource.io/blog/8-new-python-antipatterns/)
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns ](https://camillovisini.com/article/abstracting-fastapi-services/)
+- [30 Python Language Tricks That Will Make You a Better Coder](https://medium.com/pythonland/30-python-language-tricks-that-will-make-you-a-better-coder-f08f811a7b0f)
+- [Python Microservices With gRPC](https://realpython.com/python-microservices-grpc/)
+- [My Logging Best Practices](https://tuhrig.de/my-logging-best-practices/)
+- [A complete guide to production-ready Celery configuration](https://medium.com/pythonistas/a-complete-guide-to-production-ready-celery-configuration-5777780b3166)
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+- [Professional-grade mypy configuration](https://blog.wolt.com/engineering/2021/09/30/professional-grade-mypy-configuration/)
+
+### Rust
+
+- [Rust in the on of the biggest music festival Atlas Weekend 2019](https://www.reddit.com/r/rust/comments/cdg5b4/rust_in_the_on_of_the_biggest_music_festival/)
+- [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
+- [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system/)
+- [Ownership Concept Diagram](https://i.redd.it/nhhxzcwqd6q61.png)
+- [Pattern Matching with Match in Rust](https://i.redd.it/bmdfceg7gpy71.png)
+- [https://fasterthanli.me/articles/whats-in-the-box](https://fasterthanli.me/articles/whats-in-the-box)
 
 ## Raspberry Pi
 
@@ -108,6 +150,7 @@
 - [My first week with RPi3](https://www.reddit.com/r/raspberry_pi/comments/4b10ni/my_first_week_with_rpi3/)
 - [Build Your Own Cloud with Kubernetes and Some Raspberry Pi](https://www.sicara.ai/blog/2018-05-12-build-own-cloud-kubernetes-raspberry-pi)
 - [I designed a print-in-place Raspberry Pi case that folds up and snaps together to hold Pi's securely!](https://www.reddit.com/r/3Dprinting/comments/i5xop7/i_designed_a_printinplace_raspberry_pi_case_that/g0s4dj8/)
+- [How to Use a Soil Moisture Sensor to Keep Your Plants Alive](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
 
 ## SysAdmin/DevOps
 
@@ -125,3 +168,7 @@
 - [How would you identify your company’s AWS infrastructure, so you can map it for documentation purposes?](https://www.reddit.com/r/devops/comments/q5wxu5/how_would_you_identify_your_companys_aws/)
 - [Solving the terraform monolith challenges](https://www.reddit.com/r/devops/comments/ahc4i1/solving_the_terraform_monolith_challenges/)
 - [Inventory management](https://www.reddit.com/r/sysadmin/comments/ehhefj/inventory_management/)
+- [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+- [Deploy Traefik on Kubernetes with Wildcard TLS Certs](https://ikarus.sg/deploy-traefik-v2/)
+- [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
