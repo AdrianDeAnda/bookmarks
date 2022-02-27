@@ -31,6 +31,15 @@
 - [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed?utm_source=url)
 - [How to Evaluate Startup Offers - A Beginner's Guide](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 
+## Courses
+
+- [Software Architecture: Principles and Practices](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=V07)
+- [Documenting Software Architectures](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=V18)
+- [Software Architecture Design and Analysis](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P34)
+- [Examination of Software Architecture: Principles and Practices](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=V19)
+- [UI Design for Developers](https://designcode.io/ui-design)
+- [Game Theory](https://oyc.yale.edu/economics/econ-159)
+
 ## OS
 
 - [What tweaks do you usually apply when installing Arch?](https://www.reddit.com/r/archlinux/comments/8dhhm7/what_tweaks_do_you_usually_apply_when_installing/)
@@ -76,6 +85,9 @@
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - [Developer roadmaps](https://roadmap.sh/roadmaps)
 - [Code Review Best Practices ](https://blogboard.io/blog/code-review-best-practices/)
+- [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography)
+- [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
 
 ### Go
 
@@ -125,6 +137,9 @@
 - [A complete guide to production-ready Celery configuration](https://medium.com/pythonistas/a-complete-guide-to-production-ready-celery-configuration-5777780b3166)
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 - [Professional-grade mypy configuration](https://blog.wolt.com/engineering/2021/09/30/professional-grade-mypy-configuration/)
+- [Clean code in Python](https://testdriven.io/blog/clean-code-python/)
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 
 ### Rust
 
@@ -136,6 +151,7 @@
 - [Ownership Concept Diagram](https://i.redd.it/nhhxzcwqd6q61.png)
 - [Pattern Matching with Match in Rust](https://i.redd.it/bmdfceg7gpy71.png)
 - [https://fasterthanli.me/articles/whats-in-the-box](https://fasterthanli.me/articles/whats-in-the-box)
+- [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
 
 ## Raspberry Pi
 
@@ -172,3 +188,7 @@
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 - [Deploy Traefik on Kubernetes with Wildcard TLS Certs](https://ikarus.sg/deploy-traefik-v2/)
 - [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
+- [How To Set Up Your Linode For Maximum Awesomeness](https://feross.org/how-to-setup-your-linode/)
+- [Automating a software company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions)
+- [GCP Developer's cheat sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/DarkPoster-lowres.png)
