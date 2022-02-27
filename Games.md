@@ -20,3 +20,4 @@
 
 - [Fallout: New Vegas](https://www.reddit.com/r/GameDeals/comments/2nrtbm/steam_autumn_sale_day_4_details_inside/cmga03k/)
 - [Autumn Leaves: a Fallout: New Vegas DLC-sized mod that adds over 10 hours of gameplay, 5 different endings, more than 2000 pro-voiced lines, 8 new quests with several routes and resolutions, 29 new perks and an original soundtrack](https://www.moddb.com/mods/autumn-leaves)
+- [Bahroo's Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2380121291)

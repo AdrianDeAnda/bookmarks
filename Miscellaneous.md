@@ -13,6 +13,7 @@
 - [How to start building muscle with NO equipment](https://i.redd.it/u7nuysvxby801.jpg)
 - [Ab exercises that require no equipment, in different intensities](https://i.redd.it/7alt3cwg77841.jpg)
 - [Two videos to fix posture](https://www.reddit.com/r/Fitness/comments/4ae4w4/two_videos_to_fix_posture/)
+- [The Ultimate Skinny Guy’s Guide to Bulking Up Fast](https://www.nerdfitness.com/blog/a-skinny-guys-guide-to-building-muscle-and-bulking-up/)
 
 ## Food
 
@@ -29,6 +30,7 @@
 - [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
 - [How to gain more from your reading](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly)
 - [How to study effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
+- [30x30](https://the30x30.com/)
 - [Want to learn Elvish?](http://imgur.com/a/Ao2CI)
 - [How to make a margarita](http://i.imgur.com/UyOh0fu.gif)
 - [Easily cite all your sources with MS Word](https://i.imgur.com/iCyI3AS.jpg)
@@ -63,6 +65,9 @@
 - [Your Thinking Rate Is Fixed](https://fs.blog/thinking-rate-fixed/)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [How I use Notion](https://reasonabledeviations.com/2021/09/18/how-i-use-notion/)
+- [Lessons From Writing 750 Words a Day for 365 Days](https://bennesvig.com/lessons-writing-750-words-day-365-days/)
+- [40 Sleep Hacks](https://www.scribd.com/doc/3932344/40-Sleep-Hacks-The-Geek-s-Guide-to-Optimizing-Sleep)
+- [20 Useful Things You Can Accomplish In 15 Minutes](https://www.pickthebrain.com/blog/20-useful-things-you-can-accomplish-in-15-minutes/)
 
 ## Tattoos
 
