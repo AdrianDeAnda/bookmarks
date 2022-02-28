@@ -38,7 +38,7 @@
 - [How to recognize the artist's of various types of paintings](http://imgur.com/a/LU1t2)
 - [Publish a books (KDP)](https://www.reddit.com/r/AdviceAnimals/comments/2qjmiw/first_in_a_trilogy/cn6pwxl/)
 - [How to improve Excel tables with minimalism](http://i.imgur.com/XLkqfKC.gifv)
-- [12 Grammar and Writing Tips from Archer](https://litreactor.com/columns/12-grammar-and-writing-tips-from-archer#st_refDomain=t.co&st_refQuery=/3jWw6ZhQR2)
+- [12 Grammar and Writing Tips from Archer](https://litreactor.com/columns/12-grammar-and-writing-tips-from-archer)
 - [How to jumpstart a car](http://imgur.com/AAsPSdW)
 - [Helpful Excel trick to impress your boss](http://i.imgur.com/7tqt3Xx.jpg)
 - [What are the best free online certificates you can complete that will actually look good on a resume?](https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you/)
@@ -68,6 +68,7 @@
 - [Lessons From Writing 750 Words a Day for 365 Days](https://bennesvig.com/lessons-writing-750-words-day-365-days/)
 - [40 Sleep Hacks](https://www.scribd.com/doc/3932344/40-Sleep-Hacks-The-Geek-s-Guide-to-Optimizing-Sleep)
 - [20 Useful Things You Can Accomplish In 15 Minutes](https://www.pickthebrain.com/blog/20-useful-things-you-can-accomplish-in-15-minutes/)
+- [How To Win At Risk By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
 
 ## Tattoos
 

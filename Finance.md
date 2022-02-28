@@ -18,3 +18,5 @@
 - [File FINRA complaint](https://www.finra.org/investors/need-help/file-a-complaint)
 - [File SEC complaint](https://www.sec.gov/oiea/investor-alerts-bulletins/ib_complaints.html)
 - [Selling a Tiny Project](https://tinyprojects.dev/posts/selling_a_tiny_project)
+- [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
+- [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
