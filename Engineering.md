@@ -28,8 +28,11 @@
 - [How I Use tmux For Local Development ](https://deliciousbrains.com/tmux-for-local-development/)
 - [5 second feedback](https://critter.blog/2020/11/26/5-second-feedback/)
 - [Interview advice](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
-- [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed?utm_source=url)
+- [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 - [How to Evaluate Startup Offers - A Beginner's Guide](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+- [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
+- [The 10 commandments of salary negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
+- [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
 
 ## Courses
 
@@ -39,6 +42,7 @@
 - [Examination of Software Architecture: Principles and Practices](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=V19)
 - [UI Design for Developers](https://designcode.io/ui-design)
 - [Game Theory](https://oyc.yale.edu/economics/econ-159)
+- [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 ## OS
 
@@ -53,6 +57,7 @@
 - [My computer freezes fairly regularly, how can I narrow down the cause?](https://www.reddit.com/r/archlinux/comments/qz25q3/my_computer_freezes_fairly_regularly_how_can_i/hljnn48/)
 - [Full Wayland Setup on Arch Linux](https://www.fosskers.ca/en/blog/wayland)
 - [systemd timers for DuckDNS](https://grenangen.se/posts/systemd-timers-duckdns/)
+- [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases)
 
 ## PCMR/Keebs
 
@@ -68,6 +73,7 @@
 
 - [Top privacy apps surveyed from the Bitwarden Community](https://i.redd.it/88m3rro84je81.jpg)
 - [Sample Strategy to make PM your main email account](https://www.reddit.com/r/ProtonMail/comments/ly8254/sample_strategy_to_make_pm_your_main_email/)
+- [European alternatives for digital products](https://european-alternatives.eu/)
 
 ## Programming
 
@@ -88,6 +94,12 @@
 - [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography)
 - [Understanding Kafka with Factorio](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 - [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Best practices for writing SQL queries](https://www.metabase.com/learn/sql-questions/sql-best-practices)
+- [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [Case against OOP is understated, not overstated](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
+- [The Factorio mindset](https://www.thediff.co/p/the-factorio-mindset)
+- [What are some examples of beautiful x86 assembly code?](https://news.ycombinator.com/item?id=16938934)
 
 ### Go
 
@@ -102,6 +114,7 @@
 - [Building Microapps with gRPC-Web](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
 - [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/)
 - [REST Servers in Go: standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
 
 ### Python
 
@@ -140,6 +153,9 @@
 - [Clean code in Python](https://testdriven.io/blog/clean-code-python/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
+- [Building a recommendation engine inside Postgres with Python and Pandas](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Doing Python Configuration Right](https://whalesalad.com/blog/doing-python-configuration-right)
 
 ### Rust
 
@@ -150,8 +166,9 @@
 - [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system/)
 - [Ownership Concept Diagram](https://i.redd.it/nhhxzcwqd6q61.png)
 - [Pattern Matching with Match in Rust](https://i.redd.it/bmdfceg7gpy71.png)
-- [https://fasterthanli.me/articles/whats-in-the-box](https://fasterthanli.me/articles/whats-in-the-box)
+- [What's in the box](https://fasterthanli.me/articles/whats-in-the-box)
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
+- [Replacing Elasticsearch with Rust and SQLite](https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite)
 
 ## Raspberry Pi
 
@@ -167,6 +184,7 @@
 - [Build Your Own Cloud with Kubernetes and Some Raspberry Pi](https://www.sicara.ai/blog/2018-05-12-build-own-cloud-kubernetes-raspberry-pi)
 - [I designed a print-in-place Raspberry Pi case that folds up and snaps together to hold Pi's securely!](https://www.reddit.com/r/3Dprinting/comments/i5xop7/i_designed_a_printinplace_raspberry_pi_case_that/g0s4dj8/)
 - [How to Use a Soil Moisture Sensor to Keep Your Plants Alive](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
+- [Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
 
 ## SysAdmin/DevOps
 
@@ -192,3 +210,4 @@
 - [How To Set Up Your Linode For Maximum Awesomeness](https://feross.org/how-to-setup-your-linode/)
 - [Automating a software company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 - [GCP Developer's cheat sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/DarkPoster-lowres.png)
+- [Running a private mail server for six years](https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html)
