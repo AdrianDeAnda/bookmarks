@@ -6,6 +6,7 @@
 - [The DRS list (GME)](https://www.reddit.com/r/Superstonk/comments/ppb8u6/the_drs_list_mercy_mercy_me_gme_aint_where_it/)
 - [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
 - [Positions, Profit and Loss](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
+- [Portfolio visualizer](https://www.portfoliovisualizer.com/)
 
 ## Guides
 
@@ -20,3 +21,4 @@
 - [Selling a Tiny Project](https://tinyprojects.dev/posts/selling_a_tiny_project)
 - [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
 - [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
+- [The Simple Path to Wealth Book Summary](https://www.reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
