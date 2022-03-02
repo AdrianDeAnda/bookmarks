@@ -211,3 +211,4 @@
 - [Automating a software company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 - [GCP Developer's cheat sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/DarkPoster-lowres.png)
 - [Running a private mail server for six years](https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html)
+- [Kubernetes Failure Stories](https://codeberg.org/hjacobs/kubernetes-failure-stories)
