@@ -115,6 +115,8 @@
 - [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/)
 - [REST Servers in Go: standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 - [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
+- [Accept interfaces, return structs](https://bryanftan.medium.com/accept-interfaces-return-structs-in-go-d4cab29a301b)
+- [Clean Architecture, 2 years later](https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/)
 
 ### Python
 
