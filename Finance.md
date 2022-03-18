@@ -22,3 +22,4 @@
 - [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
 - [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
 - [The Simple Path to Wealth Book Summary](https://www.reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
+- [I'm Too Risk-Averse for Index Investing ](https://paranoidvalueinvestor.substack.com/p/im-too-risk-adverse-for-index-investing)
