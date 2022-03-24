@@ -33,6 +33,7 @@
 - [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 - [The 10 commandments of salary negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
+- [How To Eliminate Organizational Debt](https://medium.com/the-ready/how-to-eliminate-organizational-debt-8a949c06b61b)
 
 ## Courses
 
