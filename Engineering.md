@@ -159,6 +159,7 @@
 - [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
 - [Building a recommendation engine inside Postgres with Python and Pandas](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
 - [Doing Python Configuration Right](https://whalesalad.com/blog/doing-python-configuration-right)
+- [Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
 
 ### Rust
 
