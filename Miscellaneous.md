@@ -82,6 +82,8 @@
 - [Japanese traditional tiger](https://i.redd.it/flpzdwbh8sx01.jpg)
 - [Tiny mountain](https://i.redd.it/44h54z4qp8821.jpg)
 - [Gyarados](https://i.redd.it/284kfbfixvr21.jpg)
+- [Clarissa Mao #1](https://i.redd.it/gierhfw92l631.jpg)
+- [Clarissa Mao #2](https://i.redd.it/wu81xf90pv011.jpg)
 
 ## Travel
 
