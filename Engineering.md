@@ -173,6 +173,7 @@
 - [What's in the box](https://fasterthanli.me/articles/whats-in-the-box)
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
 - [Replacing Elasticsearch with Rust and SQLite](https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite)
+- [A Performance Evaluation on Rust Asynchronous Frameworks](https://zenoh.io/blog/2022-04-14-rust-async-eval/)
 
 ## Raspberry Pi
 
