@@ -69,6 +69,7 @@
 - [40 Sleep Hacks](https://www.scribd.com/doc/3932344/40-Sleep-Hacks-The-Geek-s-Guide-to-Optimizing-Sleep)
 - [20 Useful Things You Can Accomplish In 15 Minutes](https://www.pickthebrain.com/blog/20-useful-things-you-can-accomplish-in-15-minutes/)
 - [How To Win At Risk By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
+- [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known)
 
 ## Tattoos
 
