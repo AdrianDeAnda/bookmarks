@@ -35,6 +35,7 @@
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
 - [How To Eliminate Organizational Debt](https://medium.com/the-ready/how-to-eliminate-organizational-debt-8a949c06b61b)
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
+- [When Everything is Important But Nothing is Getting Done](https://sharedphysics.com/everything-is-important)
 
 ## Courses
 
