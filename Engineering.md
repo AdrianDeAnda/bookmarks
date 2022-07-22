@@ -36,6 +36,7 @@
 - [How To Eliminate Organizational Debt](https://medium.com/the-ready/how-to-eliminate-organizational-debt-8a949c06b61b)
 - [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [When Everything is Important But Nothing is Getting Done](https://sharedphysics.com/everything-is-important)
+- [Action Plan for A New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
 
 ## Courses
 
@@ -163,6 +164,7 @@
 - [Building a recommendation engine inside Postgres with Python and Pandas](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
 - [Doing Python Configuration Right](https://whalesalad.com/blog/doing-python-configuration-right)
 - [Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
+- [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
 
 ### Rust
 
