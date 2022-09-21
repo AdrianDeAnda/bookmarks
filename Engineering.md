@@ -104,6 +104,9 @@
 - [Case against OOP is understated, not overstated](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
 - [The Factorio mindset](https://www.thediff.co/p/the-factorio-mindset)
 - [What are some examples of beautiful x86 assembly code?](https://news.ycombinator.com/item?id=16938934)
+- [6 Simple and Useful PostgreSQL Features that I wish I knew when I started ](https://it.badykov.com/blog/2022/09/12/simple-and-usefull-postgresql-features/)
+- [6 Event-Driven Architecture Patterns — Part 1](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47)
+- [Redis Explained](https://architecturenotes.co/redis/)
 
 ### Go
 
@@ -165,6 +168,7 @@
 - [Doing Python Configuration Right](https://whalesalad.com/blog/doing-python-configuration-right)
 - [Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
 - [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
+- [#04 | Data Visualization in Python](https://blog.resolvingpython.com/04-data-visualization-in-python)
 
 ### Rust
 
