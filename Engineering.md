@@ -127,6 +127,7 @@
 - [Accept interfaces, return structs](https://bryanftan.medium.com/accept-interfaces-return-structs-in-go-d4cab29a301b)
 - [Clean Architecture, 2 years later](https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/)
 - [Shaving 40% Off Google’s B-Tree Implementation with Go Generic](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics)
+- [Making a Go program run 1.7x faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
 
 ### Python
 
@@ -171,6 +172,7 @@
 - [Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
 - [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
 - [#04 | Data Visualization in Python](https://blog.resolvingpython.com/04-data-visualization-in-python)
+- [Migrating to PATHLIB](https://amitness.com/2019/12/migrating-to-pathlib)
 
 ### Rust
 
@@ -185,6 +187,7 @@
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
 - [Replacing Elasticsearch with Rust and SQLite](https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite)
 - [A Performance Evaluation on Rust Asynchronous Frameworks](https://zenoh.io/blog/2022-04-14-rust-async-eval/)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust)
 
 ## Raspberry Pi
 
@@ -207,7 +210,7 @@
 - [How do I learn to be a Linux sysadmin](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/)
 - [New to homelabs? Start here](https://www.reddit.com/r/homelab/comments/3jfob4/new_to_homelabs_start_here/)
 - [How do I learn to be a Cloud Engineer?](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)
-- ​[What DevOps practices have had the biggest benefit to team morale?](https://www.reddit.com/r/devops/comments/9f7kdb/what_devops_practices_have_had_the_biggest/)
+- [What DevOps practices have had the biggest benefit to team morale?](https://www.reddit.com/r/devops/comments/9f7kdb/what_devops_practices_have_had_the_biggest/)
 - [Tools & Info for SysAdmins - Mega Summary (85 Items)](https://www.reddit.com/r/sysadmin/comments/9ir451/tools_info_for_sysadmins_mega_summary_85_items/)
 - [What's your monitoring and alerting stack look like?](https://www.reddit.com/r/devops/comments/afqye3/whats_your_monitoring_and_alerting_stack_look_like/)
 - [Running 60+ WP sites on the same server. What is the best next step?](https://www.reddit.com/r/devops/comments/dbdr2n/running_60_wp_sites_on_the_same_server_what_is/f22owzf/)
@@ -229,3 +232,4 @@
 - [Running a private mail server for six years](https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html)
 - [Kubernetes Failure Stories](https://codeberg.org/hjacobs/kubernetes-failure-stories)
 - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
+- [An Introduction to Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices)
