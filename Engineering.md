@@ -64,6 +64,9 @@
 - [Full Wayland Setup on Arch Linux](https://www.fosskers.ca/en/blog/wayland)
 - [systemd timers for DuckDNS](https://grenangen.se/posts/systemd-timers-duckdns/)
 - [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases)
+- [Encrypted root + Secure boot + Unified kernel image installation guide](https://www.reddit.com/r/archlinux/comments/10k58uj/encrypted_root_secure_boot_unified_kernel_image)
+- [Upgrading personal security on Arch Linux/Windows 11 dual boot: disk encryption with FIDO2 and secure boot using sbctl](https://saligrama.io/blog/post/upgrading-personal-security-evil-maid)
+- [I replaced grub with systemd-boot](https://blog.bofh.it/debian/id_465)
 
 ## PCMR/Keebs
 
@@ -173,6 +176,13 @@
 - [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
 - [#04 | Data Visualization in Python](https://blog.resolvingpython.com/04-data-visualization-in-python)
 - [Migrating to PATHLIB](https://amitness.com/2019/12/migrating-to-pathlib)
+- [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
+- [Python charts](https://python-charts.com)
+- [Modern Polars: A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars)
+- [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide)
+- [A Comprehensive Guide to Logging in Python](https://betterstack.com/community/guides/logging/how-to-start-logging-with-python)
+- [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://levelup.gitconnected.com/how-to-build-a-dividend-investing-dashboard-in-python-and-streamlit-a9ad2714c76b)
+- [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://shanenullain.medium.com/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-6b3257e8b167)
 
 ### Rust
 
