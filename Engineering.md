@@ -39,6 +39,7 @@
 - [Action Plan for A New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
 - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 - [Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
+- [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 
 ## Courses
 
