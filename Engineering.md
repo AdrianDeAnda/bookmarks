@@ -244,3 +244,4 @@
 - [Kubernetes Failure Stories](https://codeberg.org/hjacobs/kubernetes-failure-stories)
 - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 - [An Introduction to Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices)
+- [Reflections on 10,000 Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
