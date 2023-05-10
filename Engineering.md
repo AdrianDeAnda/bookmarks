@@ -50,6 +50,7 @@
 - [UI Design for Developers](https://designcode.io/ui-design)
 - [Game Theory](https://oyc.yale.edu/economics/econ-159)
 - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+- [System Design: Reddit (with FAANG Senior Engineer)](https://youtu.be/X3rXAkZwRuQ)
 
 ## OS
 
@@ -184,6 +185,7 @@
 - [A Comprehensive Guide to Logging in Python](https://betterstack.com/community/guides/logging/how-to-start-logging-with-python)
 - [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://levelup.gitconnected.com/how-to-build-a-dividend-investing-dashboard-in-python-and-streamlit-a9ad2714c76b)
 - [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://shanenullain.medium.com/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-6b3257e8b167)
+- [What are some of the best Python tricks you guys use when programming?](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python)
 
 ### Rust
 
@@ -245,3 +247,4 @@
 - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 - [An Introduction to Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices)
 - [Reflections on 10,000 Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
+- [Amazon ECS Scalability Best Practices](https://nathanpeck.com/amazon-ecs-scaling-best-practices)
