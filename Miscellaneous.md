@@ -71,6 +71,7 @@
 - [How To Win At Risk By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
 - [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known)
 - [Advice That Actually Worked For Me](https://nabeelqu.co/advice)
+- [Costco price tag guide](https://i.redd.it/azeobx0241ta1.jpg)
 
 ## Tattoos
 
