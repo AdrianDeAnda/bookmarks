@@ -40,6 +40,7 @@
 - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 - [Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
+- [Understanding Passkeys](https://michal.sapka.me/2023/passkeys)
 
 ## Courses
 
@@ -133,6 +134,7 @@
 - [Clean Architecture, 2 years later](https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/)
 - [Shaving 40% Off Google’s B-Tree Implementation with Go Generic](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics)
 - [Making a Go program run 1.7x faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
+- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023)
 
 ### Python
 
