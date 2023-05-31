@@ -115,6 +115,8 @@
 - [6 Simple and Useful PostgreSQL Features that I wish I knew when I started ](https://it.badykov.com/blog/2022/09/12/simple-and-usefull-postgresql-features/)
 - [6 Event-Driven Architecture Patterns — Part 1](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47)
 - [Redis Explained](https://architecturenotes.co/redis/)
+- [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
+- [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 
 ### Go
 
@@ -188,6 +190,7 @@
 - [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://levelup.gitconnected.com/how-to-build-a-dividend-investing-dashboard-in-python-and-streamlit-a9ad2714c76b)
 - [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://shanenullain.medium.com/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-6b3257e8b167)
 - [What are some of the best Python tricks you guys use when programming?](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python)
+- [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
 ### Rust
 
