@@ -41,6 +41,7 @@
 - [Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 - [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys)
+- [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 
 ## Courses
 
@@ -206,6 +207,7 @@
 - [Replacing Elasticsearch with Rust and SQLite](https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite)
 - [A Performance Evaluation on Rust Asynchronous Frameworks](https://zenoh.io/blog/2022-04-14-rust-async-eval/)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust)
+- [Difference between String, &str, and &String](https://i.redd.it/7r51bqhj6a3b1.png)
 
 ## Raspberry Pi
 
