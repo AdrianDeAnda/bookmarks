@@ -43,6 +43,8 @@
 - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys)
 - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 - [How I Wrote My First Software Design Doc To Win New Project](https://www.idaszak.com/posts/first-software-design-doc/)
+- [How you can ~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
+- [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 
 ## Courses
 
