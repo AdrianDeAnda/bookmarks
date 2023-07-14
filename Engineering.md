@@ -122,6 +122,7 @@
 - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
+- [Building an Uber clone](https://jurajmajerik.com/blog/start-here/)
 
 ### Go
 
