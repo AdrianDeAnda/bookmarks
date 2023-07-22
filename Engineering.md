@@ -143,6 +143,7 @@
 - [Shaving 40% Off Google’s B-Tree Implementation with Go Generic](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics)
 - [Making a Go program run 1.7x faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023)
+- [Build your Own Serverless: Part 1](https://www.codereliant.io/build-your-own-serverless-part-1/)
 
 ### Python
 
@@ -214,7 +215,7 @@
 - [A Performance Evaluation on Rust Asynchronous Frameworks](https://zenoh.io/blog/2022-04-14-rust-async-eval/)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust)
 - [Difference between String, &str, and &String](https://i.redd.it/7r51bqhj6a3b1.png)
-- [Use Arca Instead of Vec](https://www.youtube.com/watch?v=A4cKi7PTJSs)
+- [Use Arc Instead of Vec](https://www.youtube.com/watch?v=A4cKi7PTJSs)
 
 ## Raspberry Pi
 

@@ -7,6 +7,7 @@
 - [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
 - [Positions, Profit and Loss](https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/)
 - [Portfolio visualizer](https://www.portfoliovisualizer.com/)
+- [Your Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 
 ## Guides
 
