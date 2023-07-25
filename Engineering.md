@@ -199,6 +199,7 @@
 - [What are some of the best Python tricks you guys use when programming?](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python)
 - [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 - [Elixir for Humans Who Know Python ](https://hibox.live/elixir-for-humans-who-know-python)
+- [A Guide to Python Lambda Functions](https://adamj.eu/tech/2020/08/10/a-guide-to-python-lambda-functions)
 
 ### Rust
 
@@ -216,6 +217,7 @@
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust)
 - [Difference between String, &str, and &String](https://i.redd.it/7r51bqhj6a3b1.png)
 - [Use Arc Instead of Vec](https://www.youtube.com/watch?v=A4cKi7PTJSs)
+- [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 
 ## Raspberry Pi
 
