@@ -123,6 +123,8 @@
 - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 - [Building an Uber clone](https://jurajmajerik.com/blog/start-here/)
+- [Vim: Delete all lines containing a pattern](https://vim.fandom.com/wiki/Delete_all_lines_containing_a_pattern)
+- [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 ### Go
 
@@ -200,6 +202,7 @@
 - [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 - [Elixir for Humans Who Know Python ](https://hibox.live/elixir-for-humans-who-know-python)
 - [A Guide to Python Lambda Functions](https://adamj.eu/tech/2020/08/10/a-guide-to-python-lambda-functions)
+- [Creating a context manager in Python](https://www.pythonmorsels.com/creating-a-context-manager)
 
 ### Rust
 
