@@ -45,6 +45,7 @@
 - [How I Wrote My First Software Design Doc To Win New Project](https://www.idaszak.com/posts/first-software-design-doc/)
 - [How you can ~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
 - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
+- [Moving faster](https://www.scattered-thoughts.net/writing/moving-faster)
 
 ## Courses
 
@@ -203,6 +204,7 @@
 - [Elixir for Humans Who Know Python ](https://hibox.live/elixir-for-humans-who-know-python)
 - [A Guide to Python Lambda Functions](https://adamj.eu/tech/2020/08/10/a-guide-to-python-lambda-functions)
 - [Creating a context manager in Python](https://www.pythonmorsels.com/creating-a-context-manager)
+- [How to Ditch Codecov for Python Projects](https://hynek.me/articles/ditch-codecov-python)
 
 ### Rust
 
@@ -268,3 +270,4 @@
 - [An Introduction to Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices)
 - [Reflections on 10,000 Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 - [Amazon ECS Scalability Best Practices](https://nathanpeck.com/amazon-ecs-scaling-best-practices)
+- [You should have lots of AWS accounts](https://substrate.tools/blog/you-should-have-lots-of-aws-accounts)
