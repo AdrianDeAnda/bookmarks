@@ -147,6 +147,7 @@
 - [Making a Go program run 1.7x faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023)
 - [Build your Own Serverless: Part 1](https://www.codereliant.io/build-your-own-serverless-part-1/)
+- [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice)
 
 ### Python
 
@@ -271,3 +272,4 @@
 - [Reflections on 10,000 Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 - [Amazon ECS Scalability Best Practices](https://nathanpeck.com/amazon-ecs-scaling-best-practices)
 - [You should have lots of AWS accounts](https://substrate.tools/blog/you-should-have-lots-of-aws-accounts)
+- [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
