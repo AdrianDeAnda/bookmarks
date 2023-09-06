@@ -75,6 +75,7 @@
 - [Encrypted root + Secure boot + Unified kernel image installation guide](https://www.reddit.com/r/archlinux/comments/10k58uj/encrypted_root_secure_boot_unified_kernel_image)
 - [Upgrading personal security on Arch Linux/Windows 11 dual boot: disk encryption with FIDO2 and secure boot using sbctl](https://saligrama.io/blog/post/upgrading-personal-security-evil-maid)
 - [I replaced grub with systemd-boot](https://blog.bofh.it/debian/id_465)
+- [ZFS for Dummies#](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 
 ## PCMR/Keebs
 
@@ -126,6 +127,7 @@
 - [Building an Uber clone](https://jurajmajerik.com/blog/start-here/)
 - [Vim: Delete all lines containing a pattern](https://vim.fandom.com/wiki/Delete_all_lines_containing_a_pattern)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+- [Securing your PostgreSQL DB with Roles & Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 
 ### Go
 
@@ -224,6 +226,7 @@
 - [Difference between String, &str, and &String](https://i.redd.it/7r51bqhj6a3b1.png)
 - [Use Arc Instead of Vec](https://www.youtube.com/watch?v=A4cKi7PTJSs)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
+- [Best Rust Web Frameworks to Use in 2023](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 
 ## Raspberry Pi
 
