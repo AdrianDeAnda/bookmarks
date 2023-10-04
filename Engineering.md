@@ -76,6 +76,7 @@
 - [Upgrading personal security on Arch Linux/Windows 11 dual boot: disk encryption with FIDO2 and secure boot using sbctl](https://saligrama.io/blog/post/upgrading-personal-security-evil-maid)
 - [I replaced grub with systemd-boot](https://blog.bofh.it/debian/id_465)
 - [ZFS for Dummies#](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+- [How can I increase the security on my freshly installed ArchLinux installation?](https://www.reddit.com/r/archlinux/comments/15j5koa/how_can_i_increase_the_security_on_my_freshly)
 
 ## PCMR/Keebs
 
@@ -127,7 +128,8 @@
 - [Building an Uber clone](https://jurajmajerik.com/blog/start-here/)
 - [Vim: Delete all lines containing a pattern](https://vim.fandom.com/wiki/Delete_all_lines_containing_a_pattern)
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
-- [Securing your PostgreSQL DB with Roles & Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
+- [Securing your PostgreSQL DB with Roles & Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges)
+- [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency)
 
 ### Go
 
@@ -208,6 +210,7 @@
 - [A Guide to Python Lambda Functions](https://adamj.eu/tech/2020/08/10/a-guide-to-python-lambda-functions)
 - [Creating a context manager in Python](https://www.pythonmorsels.com/creating-a-context-manager)
 - [How to Ditch Codecov for Python Projects](https://hynek.me/articles/ditch-codecov-python)
+- [From 'Barely Works' to Pythonic Code](https://youtu.be/spi0N_PNznE)
 
 ### Rust
 
@@ -276,3 +279,4 @@
 - [Amazon ECS Scalability Best Practices](https://nathanpeck.com/amazon-ecs-scaling-best-practices)
 - [You should have lots of AWS accounts](https://substrate.tools/blog/you-should-have-lots-of-aws-accounts)
 - [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
+- [Learn and Test DMARC](https://www.learndmarc.com/)

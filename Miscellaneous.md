@@ -72,6 +72,7 @@
 - [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known)
 - [Advice That Actually Worked For Me](https://nabeelqu.co/advice)
 - [Costco price tag guide](https://i.redd.it/azeobx0241ta1.jpg)
+- [Learning to Learn.](https://rishad.substack.com/p/learning-to-learn)
 
 ## Tattoos
 
