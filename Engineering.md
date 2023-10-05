@@ -46,6 +46,7 @@
 - [How you can ~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
 - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 - [Moving faster](https://www.scattered-thoughts.net/writing/moving-faster)
+- [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 
 ## Courses
 
@@ -130,6 +131,7 @@
 - [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 - [Securing your PostgreSQL DB with Roles & Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges)
 - [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency)
+- [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 
 ### Go
 
@@ -280,3 +282,4 @@
 - [You should have lots of AWS accounts](https://substrate.tools/blog/you-should-have-lots-of-aws-accounts)
 - [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 - [Learn and Test DMARC](https://www.learndmarc.com/)
+- [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
