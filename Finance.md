@@ -13,7 +13,6 @@
 
 - [Incorporating In The USA Without Being An American](https://www.reddit.com/r/startups/comments/377xj6/incorporating_in_the_usa_without_being_an_american/)
 - [The Ultimate List of Startup Resources](https://www.reddit.com/r/startups/comments/2v16wx/the_ultimate_list_of_startup_resources_part_1/)
-- [Forbes: Employees who stay at a company for more than 2 years on average earn 50% less](https://www.reddit.com/r/personalfinance/comments/6no7nu/forbes_employees_who_stay_at_a_company_for_more/)
 - [Here's the exact process Seth Godin uses to launch a new business (from scratch) with only $1,000 in the bank and 90 days to spare](https://www.reddit.com/r/startups/comments/6s6r4a/heres_the_exact_process_seth_godin_uses_to_launch/)
 - [It's not a dividend, but if you hold a share of BRK.B, gives you discounts](https://www.reddit.com/r/dividends/comments/n9c6of/its_not_a_dividend_but_if_you_hold_a_share_of/)
 - [The self-sufficient backyard](https://i.redd.it/jl9ps3i5tms71.png)
@@ -23,5 +22,10 @@
 - [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
 - [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
 - [The Simple Path to Wealth Book Summary](https://www.reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
+
+## Misc.
+
+- [Forbes: Employees who stay at a company for more than 2 years on average earn 50% less](https://www.reddit.com/r/personalfinance/comments/6no7nu/forbes_employees_who_stay_at_a_company_for_more/)
 - [I'm Too Risk-Averse for Index Investing ](https://paranoidvalueinvestor.substack.com/p/im-too-risk-adverse-for-index-investing)
 - [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment)
+- [TBM 243: Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
