@@ -47,6 +47,9 @@
 - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 - [Moving faster](https://www.scattered-thoughts.net/writing/moving-faster)
 - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
+- [Random Thoughts 15 years into Software Engineering](https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software)
+- [Engineer Management Checklist](http://pnewman.org/engineering_mgmt_checklist.txt)
+- [Management & Leadership – Principles, Process, & Notes](https://tuckerconnelly.com/management-leadership)
 
 ## Courses
 
@@ -154,6 +157,7 @@
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023)
 - [Build your Own Serverless: Part 1](https://www.codereliant.io/build-your-own-serverless-part-1/)
 - [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice)
+- [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go)
 
 ### Python
 
@@ -213,6 +217,7 @@
 - [Creating a context manager in Python](https://www.pythonmorsels.com/creating-a-context-manager)
 - [How to Ditch Codecov for Python Projects](https://hynek.me/articles/ditch-codecov-python)
 - [From 'Barely Works' to Pythonic Code](https://youtu.be/spi0N_PNznE)
+- [You should know these f-string tricks](https://www.reddit.com/r/Python/comments/17hgu5o/you_should_know_these_fstring_tricks)
 
 ### Rust
 
