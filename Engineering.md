@@ -158,6 +158,7 @@
 - [Build your Own Serverless: Part 1](https://www.codereliant.io/build-your-own-serverless-part-1/)
 - [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice)
 - [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go)
+- [Go's 1.22+ ServeMux vs Chi Router](https://www.calhoun.io/go-servemux-vs-chi)
 
 ### Python
 
@@ -237,6 +238,7 @@
 - [Use Arc Instead of Vec](https://www.youtube.com/watch?v=A4cKi7PTJSs)
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 - [Best Rust Web Frameworks to Use in 2023](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
+- [Effective Rust: 35 Specific Ways to Improve Your Rust Code](https://effective-rust.com/cover.html)
 
 ## Raspberry Pi
 
