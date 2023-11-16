@@ -50,6 +50,8 @@
 - [Random Thoughts 15 years into Software Engineering](https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software)
 - [Engineer Management Checklist](http://pnewman.org/engineering_mgmt_checklist.txt)
 - [Management & Leadership – Principles, Process, & Notes](https://tuckerconnelly.com/management-leadership)
+- [5 Skills the Best Engineers I Know Have in Common](https://www.developing.dev/p/5-skills-all-10x-engineers-have)
+- [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
 
 ## Courses
 
