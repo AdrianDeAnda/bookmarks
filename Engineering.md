@@ -221,6 +221,7 @@
 - [How to Ditch Codecov for Python Projects](https://hynek.me/articles/ditch-codecov-python)
 - [From 'Barely Works' to Pythonic Code](https://youtu.be/spi0N_PNznE)
 - [You should know these f-string tricks](https://www.reddit.com/r/Python/comments/17hgu5o/you_should_know_these_fstring_tricks)
+- [10 Tips to Optimize PostgreSQL Queries in Your Django Project](https://blog.gitguardian.com/10-tips-to-optimize-postgresql-queries-in-your-django-project)
 
 ### Rust
 
@@ -292,3 +293,4 @@
 - [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 - [Learn and Test DMARC](https://www.learndmarc.com/)
 - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
+- [Enterprise setup for running containers on AWS – Step by Step Guide](https://konem.blog/2021/08/22/enterprise-setup-for-running-containers-on-aws-step-by-step-guide)
