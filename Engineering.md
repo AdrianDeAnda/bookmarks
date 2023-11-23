@@ -83,6 +83,7 @@
 - [I replaced grub with systemd-boot](https://blog.bofh.it/debian/id_465)
 - [ZFS for Dummies#](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 - [How can I increase the security on my freshly installed ArchLinux installation?](https://www.reddit.com/r/archlinux/comments/15j5koa/how_can_i_increase_the_security_on_my_freshly)
+- [Secure ArchLinux Installation Tutorial](https://youtu.be/4xeNL7nJLrM)
 
 ## PCMR/Keebs
 
@@ -242,6 +243,7 @@
 - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 - [Best Rust Web Frameworks to Use in 2023](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 - [Effective Rust: 35 Specific Ways to Improve Your Rust Code](https://effective-rust.com/cover.html)
+- [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 
 ## Raspberry Pi
 
