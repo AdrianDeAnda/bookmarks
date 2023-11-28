@@ -52,6 +52,7 @@
 - [Management & Leadership – Principles, Process, & Notes](https://tuckerconnelly.com/management-leadership)
 - [5 Skills the Best Engineers I Know Have in Common](https://www.developing.dev/p/5-skills-all-10x-engineers-have)
 - [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
+- [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 
 ## Courses
 
@@ -296,3 +297,4 @@
 - [Learn and Test DMARC](https://www.learndmarc.com/)
 - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 - [Enterprise setup for running containers on AWS – Step by Step Guide](https://konem.blog/2021/08/22/enterprise-setup-for-running-containers-on-aws-step-by-step-guide)
+- [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
