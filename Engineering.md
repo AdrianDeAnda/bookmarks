@@ -53,6 +53,7 @@
 - [5 Skills the Best Engineers I Know Have in Common](https://www.developing.dev/p/5-skills-all-10x-engineers-have)
 - [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
 - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
+- [On Becoming a VP of Engineering, Part 1: The Path to VP](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 
 ## Courses
 
@@ -224,6 +225,7 @@
 - [From 'Barely Works' to Pythonic Code](https://youtu.be/spi0N_PNznE)
 - [You should know these f-string tricks](https://www.reddit.com/r/Python/comments/17hgu5o/you_should_know_these_fstring_tricks)
 - [10 Tips to Optimize PostgreSQL Queries in Your Django Project](https://blog.gitguardian.com/10-tips-to-optimize-postgresql-queries-in-your-django-project)
+- [Differences from psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
 
 ### Rust
 
