@@ -226,6 +226,7 @@
 - [You should know these f-string tricks](https://www.reddit.com/r/Python/comments/17hgu5o/you_should_know_these_fstring_tricks)
 - [10 Tips to Optimize PostgreSQL Queries in Your Django Project](https://blog.gitguardian.com/10-tips-to-optimize-postgresql-queries-in-your-django-project)
 - [Differences from psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
+- [Database generated columns: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql)
 
 ### Rust
 
