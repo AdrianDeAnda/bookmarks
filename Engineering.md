@@ -140,6 +140,7 @@
 - [Securing your PostgreSQL DB with Roles & Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges)
 - [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency)
 - [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
+- [Hitchhiker's Guide To Moving From Relational Data To Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 
 ### Go
 
