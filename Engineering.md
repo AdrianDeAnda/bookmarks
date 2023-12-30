@@ -54,6 +54,7 @@
 - [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
 - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 - [On Becoming a VP of Engineering, Part 1: The Path to VP](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
+- [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 
 ## Courses
 
@@ -228,6 +229,7 @@
 - [10 Tips to Optimize PostgreSQL Queries in Your Django Project](https://blog.gitguardian.com/10-tips-to-optimize-postgresql-queries-in-your-django-project)
 - [Differences from psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
 - [Database generated columns: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql)
+- [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data)
 
 ### Rust
 
