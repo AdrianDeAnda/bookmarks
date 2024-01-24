@@ -55,6 +55,8 @@
 - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 - [On Becoming a VP of Engineering, Part 1: The Path to VP](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
+- [How to get shit done as a software engineer](https://careercutler.substack.com/p/how-to-get-done-as-a-software-engineer)
+- [Professionalism in Software Engineering](https://patrick.engineering/posts/professionalism)
 
 ## Courses
 
@@ -142,6 +144,8 @@
 - [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency)
 - [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 - [Hitchhiker's Guide To Moving From Relational Data To Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+- [The Ten Commandments of Refactoring](https://www.ahalbert.com/technology/2024/01/06/ten_commadments_of_refactoring.html)
+- [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
 
 ### Go
 
@@ -230,6 +234,8 @@
 - [Differences from psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
 - [Database generated columns: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql)
 - [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data)
+- [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+- [Django, HTMX, and Template Partials](https://circumeo.io/blog/entry/django-htmx-and-template-partials)
 
 ### Rust
 
