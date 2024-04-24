@@ -57,6 +57,9 @@
 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 - [How to get shit done as a software engineer](https://careercutler.substack.com/p/how-to-get-done-as-a-software-engineer)
 - [Professionalism in Software Engineering](https://patrick.engineering/posts/professionalism)
+- [A simple programming productivity trick: leave work unfinished to reach flow](https://read.engineerscodex.com/p/simple-software-engineering-habits)
+- [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
+- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 
 ## Courses
 
@@ -86,7 +89,7 @@
 - [Encrypted root + Secure boot + Unified kernel image installation guide](https://www.reddit.com/r/archlinux/comments/10k58uj/encrypted_root_secure_boot_unified_kernel_image)
 - [Upgrading personal security on Arch Linux/Windows 11 dual boot: disk encryption with FIDO2 and secure boot using sbctl](https://saligrama.io/blog/post/upgrading-personal-security-evil-maid)
 - [I replaced grub with systemd-boot](https://blog.bofh.it/debian/id_465)
-- [ZFS for Dummies#](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+- [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 - [How can I increase the security on my freshly installed ArchLinux installation?](https://www.reddit.com/r/archlinux/comments/15j5koa/how_can_i_increase_the_security_on_my_freshly)
 - [Secure ArchLinux Installation Tutorial](https://youtu.be/4xeNL7nJLrM)
 
