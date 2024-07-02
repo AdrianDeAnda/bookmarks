@@ -60,6 +60,7 @@
 - [A simple programming productivity trick: leave work unfinished to reach flow](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 - [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
+- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 
 ## Courses
 
@@ -149,6 +150,8 @@
 - [Hitchhiker's Guide To Moving From Relational Data To Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 - [The Ten Commandments of Refactoring](https://www.ahalbert.com/technology/2024/01/06/ten_commadments_of_refactoring.html)
 - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
+- [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
+- [Git Cheat Sheet](https://wizardzines.com/git-cheat-sheet.pdf)
 
 ### Go
 
@@ -239,6 +242,7 @@
 - [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data)
 - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 - [Django, HTMX, and Template Partials](https://circumeo.io/blog/entry/django-htmx-and-template-partials)
+- [Modern Good Practices for Python Development ](https://www.stuartellis.name/articles/python-modern-practices/)
 
 ### Rust
 
@@ -261,6 +265,7 @@
 - [Effective Rust: 35 Specific Ways to Improve Your Rust Code](https://effective-rust.com/cover.html)
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 - [Hexagonal architecture in Rust #1 - Domain](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)
+- [100 Exercises To Learn Rust](https://rust-exercises.com/)
 
 ## Raspberry Pi
 
@@ -314,3 +319,4 @@
 - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 - [Enterprise setup for running containers on AWS – Step by Step Guide](https://konem.blog/2021/08/22/enterprise-setup-for-running-containers-on-aws-step-by-step-guide)
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
+- [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
