@@ -61,6 +61,13 @@
 - [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [Writing good performance self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews)
+- [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
+- [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
+- [For whatever it's worth: my advice on job hunting in tech](https://joshcollinsworth.com/blog/fwiw)
+- [How do I get better at giving feedback?](https://www.theengineeringmanager.com/qa/how-do-i-get-better-at-giving-feedback/)
+- [How to Lead Your Team when the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 
 ## Courses
 
@@ -93,6 +100,8 @@
 - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 - [How can I increase the security on my freshly installed ArchLinux installation?](https://www.reddit.com/r/archlinux/comments/15j5koa/how_can_i_increase_the_security_on_my_freshly)
 - [Secure ArchLinux Installation Tutorial](https://youtu.be/4xeNL7nJLrM)
+- [Installing Arch Linux on a laptop](https://giacomo.coletto.io/blog/arch-amd/)
+- [My quality of life improvements to Arch Linux](https://giacomo.coletto.io/blog/arch-conf/)
 
 ## PCMR/Keebs
 
@@ -152,6 +161,9 @@
 - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
 - [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 - [Git Cheat Sheet](https://wizardzines.com/git-cheat-sheet.pdf)
+- [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
+- [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 
 ### Go
 
@@ -176,6 +188,12 @@
 - [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice)
 - [Case Study: Algorithmic Trading With Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go)
 - [Go's 1.22+ ServeMux vs Chi Router](https://www.calhoun.io/go-servemux-vs-chi)
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+- [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
+- [How I sent 500 million HTTP requests to 2.5 million hosts](https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h)
+- [Stream: Go 10 Week Backend Eng Onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
+- [Go sync.Cond, the Most Overlooked Sync Mechanism](https://victoriametrics.com/blog/go-sync-cond/index.html)
+- [Database Transactions in Go with Layered Architecture](https://threedots.tech/post/database-transactions-in-go/)
 
 ### Python
 
@@ -243,6 +261,7 @@
 - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 - [Django, HTMX, and Template Partials](https://circumeo.io/blog/entry/django-htmx-and-template-partials)
 - [Modern Good Practices for Python Development ](https://www.stuartellis.name/articles/python-modern-practices/)
+- [Taming the beast that is the Django ORM - An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
 
 ### Rust
 
@@ -266,6 +285,8 @@
 - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 - [Hexagonal architecture in Rust #1 - Domain](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)
 - [100 Exercises To Learn Rust](https://rust-exercises.com/)
+- [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
+- [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 
 ## Raspberry Pi
 
@@ -320,3 +341,4 @@
 - [Enterprise setup for running containers on AWS – Step by Step Guide](https://konem.blog/2021/08/22/enterprise-setup-for-running-containers-on-aws-step-by-step-guide)
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 - [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
+- [Lessons From Our 8 Years Of Kubernetes In Production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
