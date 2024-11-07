@@ -194,6 +194,7 @@
 - [Stream: Go 10 Week Backend Eng Onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a)
 - [Go sync.Cond, the Most Overlooked Sync Mechanism](https://victoriametrics.com/blog/go-sync-cond/index.html)
 - [Database Transactions in Go with Layered Architecture](https://threedots.tech/post/database-transactions-in-go/)
+- [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 
 ### Python
 
