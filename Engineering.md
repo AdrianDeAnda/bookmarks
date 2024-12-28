@@ -68,6 +68,8 @@
 - [For whatever it's worth: my advice on job hunting in tech](https://joshcollinsworth.com/blog/fwiw)
 - [How do I get better at giving feedback?](https://www.theengineeringmanager.com/qa/how-do-i-get-better-at-giving-feedback/)
 - [How to Lead Your Team when the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 
 ## Courses
 
@@ -164,6 +166,7 @@
 - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
+- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 
 ### Go
 
@@ -343,3 +346,4 @@
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 - [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
 - [Lessons From Our 8 Years Of Kubernetes In Production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
+- [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
