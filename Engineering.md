@@ -70,6 +70,13 @@
 - [How to Lead Your Team when the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
+- [Be A Property Owner And Not A Renter On The Internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
+- [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
+- [Getting Things Done In A Chaotic Environment](https://staysaasy.com/leadership/2024/03/12/Getting-Things-Done.html)
+- [What accomplishments sound like on software engineering resumes](https://jacobian.org/2020/may/8/engineering-resume-accomplishments/)
+- [Certifications for Enterprise Architects, Domain Solutions Architects, and Software Engineers](https://www.cerbos.dev/blog/certifications-for-enterprise-architects-domain-solutions-architects-software-engineers)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 
 ## Courses
 
@@ -167,6 +174,13 @@
 - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- [Exploring alternatives to UUIDv4; Enter ULIDs](https://raymondtukpe.com/exploring-alternatives-to-uuidv4-enter-ulids.html)
+- [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+- [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
+- [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/)
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+- [VectorChord-BM25: Revolutionize PostgreSQL Search with BM25 Ranking — 3x Faster Than ElasticSearch](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
+- [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 
 ### Go
 
@@ -198,6 +212,9 @@
 - [Go sync.Cond, the Most Overlooked Sync Mechanism](https://victoriametrics.com/blog/go-sync-cond/index.html)
 - [Database Transactions in Go with Layered Architecture](https://threedots.tech/post/database-transactions-in-go/)
 - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
+- [How I developed a markdown blog in Go and HTMX](https://fluxsec.red/how-I-developed-a-markdown-blog-with-go-and-HTMX)
+- [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
+- [The Repository pattern in Go: a painless way to simplify your service logic](https://threedots.tech/post/repository-pattern-in-go/)
 
 ### Python
 
@@ -266,6 +283,7 @@
 - [Django, HTMX, and Template Partials](https://circumeo.io/blog/entry/django-htmx-and-template-partials)
 - [Modern Good Practices for Python Development ](https://www.stuartellis.name/articles/python-modern-practices/)
 - [Taming the beast that is the Django ORM - An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
+- [How the CIA Writes Python](https://compileralchemy.substack.com/p/how-the-cia-writes-python)
 
 ### Rust
 
