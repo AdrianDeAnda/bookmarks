@@ -77,6 +77,7 @@
 - [Certifications for Enterprise Architects, Domain Solutions Architects, and Software Engineers](https://www.cerbos.dev/blog/certifications-for-enterprise-architects-domain-solutions-architects-software-engineers)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 
 ## Courses
 
@@ -127,6 +128,7 @@
 - [Top privacy apps surveyed from the Bitwarden Community](https://i.redd.it/88m3rro84je81.jpg)
 - [Sample Strategy to make PM your main email account](https://www.reddit.com/r/ProtonMail/comments/ly8254/sample_strategy_to_make_pm_your_main_email/)
 - [European alternatives for digital products](https://european-alternatives.eu/)
+- [Firefox Privacy Checklist](https://andrewmarder.net/firefox/)
 
 ## Programming
 
@@ -181,6 +183,8 @@
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 - [VectorChord-BM25: Revolutionize PostgreSQL Search with BM25 Ranking — 3x Faster Than ElasticSearch](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 
 ### Go
 
@@ -215,6 +219,16 @@
 - [How I developed a markdown blog in Go and HTMX](https://fluxsec.red/how-I-developed-a-markdown-blog-with-go-and-HTMX)
 - [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
 - [The Repository pattern in Go: a painless way to simplify your service logic](https://threedots.tech/post/repository-pattern-in-go/)
+- [This 150-Line Go Script Is Actually a Full-On Load Balancer](https://hackernoon.com/this-150-line-go-script-is-actually-a-full-on-load-balancer)
+- [Making Beautiful API Keys](https://docs.agentstation.ai/blog/beautiful-api-keys/)
+- [if got, want: A Simple Way to Write Better Go Tests](https://mtlynch.io/if-got-want-improve-go-tests/)
+- [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
+- [Writing Better Go: Lessons from 10 Code Reviews](https://speakerdeck.com/konradreiche/writing-better-go-lessons-from-10-code-reviews)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [The One Billion Row Challenge in Go: from 1m45s to 3.4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
+- [From Python to Go](https://lovable.dev/blog/from-python-to-go)
+- [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide)
 
 ### Python
 
@@ -284,6 +298,8 @@
 - [Modern Good Practices for Python Development ](https://www.stuartellis.name/articles/python-modern-practices/)
 - [Taming the beast that is the Django ORM - An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
 - [How the CIA Writes Python](https://compileralchemy.substack.com/p/how-the-cia-writes-python)
+- [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
+- [Python Design Patterns](https://python-patterns.guide/)
 
 ### Rust
 
@@ -309,6 +325,8 @@
 - [100 Exercises To Learn Rust](https://rust-exercises.com/)
 - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+- [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
+- [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 
 ## Raspberry Pi
 
