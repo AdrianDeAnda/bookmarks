@@ -78,6 +78,10 @@
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
+- [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
+- [How To Present Backend Demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
+- [You Have Too Many Metrics](https://www.breakingpoint.tech/p/you-have-too-many-metrics)
+- [Startup childhood](https://dalton.substack.com/p/startup-childhood)
 
 ## Courses
 
@@ -185,6 +189,10 @@
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
+- [E-Mail Done My Way, Part 0 - The journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
+- [Optimizing Solar Energy Production with Reinforcement Learning](https://www.jackogrady.me/reinforcement-learning-solar/research-summary)
+- [The Cult of DD](https://eklitzke.org/the-cult-of-dd)
+- [Bookmarkable by Design: URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 
 ### Go
 
@@ -300,6 +308,7 @@
 - [How the CIA Writes Python](https://compileralchemy.substack.com/p/how-the-cia-writes-python)
 - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
 - [Python Design Patterns](https://python-patterns.guide/)
+- [10 Smart Performance Hacks For Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 
 ### Rust
 
@@ -327,6 +336,7 @@
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 - [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 - [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
+- [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 
 ## Raspberry Pi
 
@@ -383,3 +393,6 @@
 - [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
 - [Lessons From Our 8 Years Of Kubernetes In Production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
+- [A serverless architecture for high performance financial modelling](https://aws.amazon.com/blogs/hpc/a-serverless-architecture-for-high-performance-financial-modelling/)
+- [Relational Databases on AWS](https://blog.quastor.org/p/relational-databases-aws)
+- [The Platform Engineer's Guide to Structuring Terraform and OpenTofu](https://scalr.com/guides/platform-engineers-guide-to-structuring-terraform-and-opentofu)

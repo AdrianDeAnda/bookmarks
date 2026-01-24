@@ -30,3 +30,5 @@
 - [I'm Too Risk-Averse for Index Investing ](https://paranoidvalueinvestor.substack.com/p/im-too-risk-adverse-for-index-investing)
 - [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment)
 - [TBM 243: Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
+- [For Best Results, Forget the Bonus](https://www.alfiekohn.org/article/best-results-forget-bonus/)
+- [FinTech Dystopia](https://fintechdystopia.com/)
