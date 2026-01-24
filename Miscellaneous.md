@@ -73,6 +73,8 @@
 - [Advice That Actually Worked For Me](https://nabeelqu.co/advice)
 - [Costco price tag guide](https://i.redd.it/azeobx0241ta1.jpg)
 - [Learning to Learn.](https://rishad.substack.com/p/learning-to-learn)
+- [Steelmanning: How to Find the Truth by Helping Your Opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
+- [What to read to become a better writer](https://www.economist.com/the-economist-reads/2022/09/09/what-to-read-to-become-a-better-writer)
 
 ## Tattoos
 
