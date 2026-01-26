@@ -82,6 +82,11 @@
 - [How To Present Backend Demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
 - [You Have Too Many Metrics](https://www.breakingpoint.tech/p/you-have-too-many-metrics)
 - [Startup childhood](https://dalton.substack.com/p/startup-childhood)
+- [Egoless Engineering](https://egoless.engineering/)
+- [How to write a good design document](https://grantslatton.com/how-to-design-document)
+- [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+- [Distracting software engineers is way more harmful than most managers think](https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 
 ## Courses
 
@@ -193,6 +198,12 @@
 - [Optimizing Solar Energy Production with Reinforcement Learning](https://www.jackogrady.me/reinforcement-learning-solar/research-summary)
 - [The Cult of DD](https://eklitzke.org/the-cult-of-dd)
 - [Bookmarkable by Design: URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+- [A (mostly functional) Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
+- [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
+- [How we eliminated cold starts for 72M monthly page views with edge caching](https://www.mintlify.com/blog/page-speed-improvements)
+- [Building a Custom Chat Widget with Discord and Cloudflare Workers: Why We Ditched Intercom, Crisp, and the Rest](https://tasrieit.com/blog/building-custom-chat-widget-discord-cloudflare-workers)
+- [Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT & SSO](https://javarevisited.substack.com/p/system-design-basics-authentication)
 
 ### Go
 
@@ -237,6 +248,9 @@
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [From Python to Go](https://lovable.dev/blog/from-python-to-go)
 - [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide)
+- [Constraints in Go: tightening up your type parameters](https://bitfieldconsulting.com/posts/constraints)
+- [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
+- [Your Go tests probably don't need a mocking library](https://rednafi.com/go/mocking-libraries-bleh/)
 
 ### Python
 
@@ -309,6 +323,7 @@
 - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
 - [Python Design Patterns](https://python-patterns.guide/)
 - [10 Smart Performance Hacks For Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
+- [When NOT to use Pydantic](https://ossa-ma.github.io/blog/when-not-to-use-pydantic)
 
 ### Rust
 
@@ -396,3 +411,5 @@
 - [A serverless architecture for high performance financial modelling](https://aws.amazon.com/blogs/hpc/a-serverless-architecture-for-high-performance-financial-modelling/)
 - [Relational Databases on AWS](https://blog.quastor.org/p/relational-databases-aws)
 - [The Platform Engineer's Guide to Structuring Terraform and OpenTofu](https://scalr.com/guides/platform-engineers-guide-to-structuring-terraform-and-opentofu)
+- [AWS in 2025: The Stuff You Think You Know That’s Now Wrong](www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
+- [The $1,000 AWS mistake](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
