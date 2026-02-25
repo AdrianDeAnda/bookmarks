@@ -86,7 +86,6 @@
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 - [Distracting software engineers is way more harmful than most managers think](https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times)
-- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 
 ## Courses
 
@@ -193,12 +192,10 @@
 - [VectorChord-BM25: Revolutionize PostgreSQL Search with BM25 Ranking — 3x Faster Than ElasticSearch](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
-- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 - [E-Mail Done My Way, Part 0 - The journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
 - [Optimizing Solar Energy Production with Reinforcement Learning](https://www.jackogrady.me/reinforcement-learning-solar/research-summary)
 - [The Cult of DD](https://eklitzke.org/the-cult-of-dd)
 - [Bookmarkable by Design: URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-- [A (mostly functional) Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
 - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 - [How we eliminated cold starts for 72M monthly page views with edge caching](https://www.mintlify.com/blog/page-speed-improvements)
@@ -245,7 +242,6 @@
 - [Writing Better Go: Lessons from 10 Code Reviews](https://speakerdeck.com/konradreiche/writing-better-go-lessons-from-10-code-reviews)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
 - [The One Billion Row Challenge in Go: from 1m45s to 3.4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
-- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [From Python to Go](https://lovable.dev/blog/from-python-to-go)
 - [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide)
 - [Constraints in Go: tightening up your type parameters](https://bitfieldconsulting.com/posts/constraints)
