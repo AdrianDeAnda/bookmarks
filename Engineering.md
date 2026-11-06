@@ -86,6 +86,9 @@
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 - [Distracting software engineers is way more harmful than most managers think](https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times)
+- [3 constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+- [A Staff Engineer's Guide to Inventing Work](https://sujithjay.com/inventing-work)
 
 ## Courses
 
@@ -120,6 +123,7 @@
 - [Secure ArchLinux Installation Tutorial](https://youtu.be/4xeNL7nJLrM)
 - [Installing Arch Linux on a laptop](https://giacomo.coletto.io/blog/arch-amd/)
 - [My quality of life improvements to Arch Linux](https://giacomo.coletto.io/blog/arch-conf/)
+- [You Don't Love systemd Timers Enough](https://blog.tjll.net/you-dont-love-systemd-timers-enough/)
 
 ## PCMR/Keebs
 
@@ -201,6 +205,14 @@
 - [How we eliminated cold starts for 72M monthly page views with edge caching](https://www.mintlify.com/blog/page-speed-improvements)
 - [Building a Custom Chat Widget with Discord and Cloudflare Workers: Why We Ditched Intercom, Crisp, and the Rest](https://tasrieit.com/blog/building-custom-chat-widget-discord-cloudflare-workers)
 - [Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT & SSO](https://javarevisited.substack.com/p/system-design-basics-authentication)
+- [Do You Even Need a Database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
+- [Why are Event-Driven Systems Hard?](https://newsletter.scalablethread.com/p/why-event-driven-systems-are-hard)
+- [What is Pub/Sub?](https://encore.dev/blog/pubsub)
+- [Email Data Normalization for Automation: Why Reliability Starts Here](https://blog.mailwebhook.com/blog/normalization-is-where-reliability-starts/)
+- [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
+- [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+- [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
+- [Postgres LISTEN/NOTIFY Can Actually Scale](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 
 ### Go
 
@@ -247,6 +259,12 @@
 - [Constraints in Go: tightening up your type parameters](https://bitfieldconsulting.com/posts/constraints)
 - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
 - [Your Go tests probably don't need a mocking library](https://rednafi.com/go/mocking-libraries-bleh/)
+- [Watchdog: Lessons from Building a Monitoring System in Go](https://nightsnest.hashnode.dev/watchdog-lessons-from-building-a-monitoring-system-in-go)
+- [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/)
+- [Clean Architecture -> Separation of concerns](https://vjerci.com/writings/clean/separation-of-concerns/)
+- [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/)
+- [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/)
+- [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 
 ### Python
 
@@ -320,6 +338,8 @@
 - [Python Design Patterns](https://python-patterns.guide/)
 - [10 Smart Performance Hacks For Faster Python Code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 - [When NOT to use Pydantic](https://ossa-ma.github.io/blog/when-not-to-use-pydantic)
+- [Text classification with Python 3.14's zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
+- [Boosting SEO with Django Ninja, Pydantic, and JSON-LD](https://www.revsys.com/tidbits/boosting-seo-with-django-ninja-pydantic-and-json-ld/)
 
 ### Rust
 
@@ -348,6 +368,8 @@
 - [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 - [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+- [Implementing OpenTelemetry in Rust Applications](https://signoz.io/blog/opentelemetry-rust/)
 
 ## Raspberry Pi
 
